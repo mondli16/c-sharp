@@ -1,0 +1,14 @@
+F:\Visual Studio Projects\LinqWithXML\LinqWithXML\bin\Debug\LinqWithXML.exe.config
+F:\Visual Studio Projects\LinqWithXML\LinqWithXML\bin\Debug\LinqWithXML.exe
+F:\Visual Studio Projects\LinqWithXML\LinqWithXML\bin\Debug\LinqWithXML.pdb
+F:\Visual Studio Projects\LinqWithXML\LinqWithXML\obj\Debug\LinqWithXML.csprojResolveAssemblyReference.cache
+F:\Visual Studio Projects\LinqWithXML\LinqWithXML\obj\Debug\LinqWithXML.csproj.CoreCompileInputs.cache
+F:\Visual Studio Projects\LinqWithXML\LinqWithXML\obj\Debug\LinqWithXML.exe
+F:\Visual Studio Projects\LinqWithXML\LinqWithXML\obj\Debug\LinqWithXML.pdb
+C:\Users\MondliKhanyile\Desktop\Learn\C#\LinqWithXML\LinqWithXML\bin\Debug\LinqWithXML.exe.config
+C:\Users\MondliKhanyile\Desktop\Learn\C#\LinqWithXML\LinqWithXML\bin\Debug\LinqWithXML.exe
+C:\Users\MondliKhanyile\Desktop\Learn\C#\LinqWithXML\LinqWithXML\bin\Debug\LinqWithXML.pdb
+C:\Users\MondliKhanyile\Desktop\Learn\C#\LinqWithXML\LinqWithXML\obj\Debug\LinqWithXML.csproj.AssemblyReference.cache
+C:\Users\MondliKhanyile\Desktop\Learn\C#\LinqWithXML\LinqWithXML\obj\Debug\LinqWithXML.csproj.CoreCompileInputs.cache
+C:\Users\MondliKhanyile\Desktop\Learn\C#\LinqWithXML\LinqWithXML\obj\Debug\LinqWithXML.exe
+C:\Users\MondliKhanyile\Desktop\Learn\C#\LinqWithXML\LinqWithXML\obj\Debug\LinqWithXML.pdb
