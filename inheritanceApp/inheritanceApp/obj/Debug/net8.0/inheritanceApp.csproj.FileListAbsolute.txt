@@ -1,0 +1,14 @@
+C:\Users\MondliKhanyile\Desktop\Learn\C#\inheritanceApp\inheritanceApp\bin\Debug\net8.0\inheritanceApp.exe
+C:\Users\MondliKhanyile\Desktop\Learn\C#\inheritanceApp\inheritanceApp\bin\Debug\net8.0\inheritanceApp.deps.json
+C:\Users\MondliKhanyile\Desktop\Learn\C#\inheritanceApp\inheritanceApp\bin\Debug\net8.0\inheritanceApp.runtimeconfig.json
+C:\Users\MondliKhanyile\Desktop\Learn\C#\inheritanceApp\inheritanceApp\bin\Debug\net8.0\inheritanceApp.dll
+C:\Users\MondliKhanyile\Desktop\Learn\C#\inheritanceApp\inheritanceApp\bin\Debug\net8.0\inheritanceApp.pdb
+C:\Users\MondliKhanyile\Desktop\Learn\C#\inheritanceApp\inheritanceApp\obj\Debug\net8.0\inheritanceApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MondliKhanyile\Desktop\Learn\C#\inheritanceApp\inheritanceApp\obj\Debug\net8.0\inheritanceApp.AssemblyInfoInputs.cache
+C:\Users\MondliKhanyile\Desktop\Learn\C#\inheritanceApp\inheritanceApp\obj\Debug\net8.0\inheritanceApp.AssemblyInfo.cs
+C:\Users\MondliKhanyile\Desktop\Learn\C#\inheritanceApp\inheritanceApp\obj\Debug\net8.0\inheritanceApp.csproj.CoreCompileInputs.cache
+C:\Users\MondliKhanyile\Desktop\Learn\C#\inheritanceApp\inheritanceApp\obj\Debug\net8.0\inheritanceApp.dll
+C:\Users\MondliKhanyile\Desktop\Learn\C#\inheritanceApp\inheritanceApp\obj\Debug\net8.0\refint\inheritanceApp.dll
+C:\Users\MondliKhanyile\Desktop\Learn\C#\inheritanceApp\inheritanceApp\obj\Debug\net8.0\inheritanceApp.pdb
+C:\Users\MondliKhanyile\Desktop\Learn\C#\inheritanceApp\inheritanceApp\obj\Debug\net8.0\inheritanceApp.genruntimeconfig.cache
+C:\Users\MondliKhanyile\Desktop\Learn\C#\inheritanceApp\inheritanceApp\obj\Debug\net8.0\ref\inheritanceApp.dll
