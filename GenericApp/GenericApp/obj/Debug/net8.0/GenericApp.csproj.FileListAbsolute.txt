@@ -1,0 +1,14 @@
+C:\Users\MondliKhanyile\Desktop\Learn\C#\GenericApp\GenericApp\obj\Debug\net8.0\GenericApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MondliKhanyile\Desktop\Learn\C#\GenericApp\GenericApp\obj\Debug\net8.0\GenericApp.AssemblyInfoInputs.cache
+C:\Users\MondliKhanyile\Desktop\Learn\C#\GenericApp\GenericApp\obj\Debug\net8.0\GenericApp.AssemblyInfo.cs
+C:\Users\MondliKhanyile\Desktop\Learn\C#\GenericApp\GenericApp\obj\Debug\net8.0\GenericApp.csproj.CoreCompileInputs.cache
+C:\Users\MondliKhanyile\Desktop\Learn\C#\GenericApp\GenericApp\bin\Debug\net8.0\GenericApp.exe
+C:\Users\MondliKhanyile\Desktop\Learn\C#\GenericApp\GenericApp\bin\Debug\net8.0\GenericApp.deps.json
+C:\Users\MondliKhanyile\Desktop\Learn\C#\GenericApp\GenericApp\bin\Debug\net8.0\GenericApp.runtimeconfig.json
+C:\Users\MondliKhanyile\Desktop\Learn\C#\GenericApp\GenericApp\bin\Debug\net8.0\GenericApp.dll
+C:\Users\MondliKhanyile\Desktop\Learn\C#\GenericApp\GenericApp\bin\Debug\net8.0\GenericApp.pdb
+C:\Users\MondliKhanyile\Desktop\Learn\C#\GenericApp\GenericApp\obj\Debug\net8.0\GenericApp.dll
+C:\Users\MondliKhanyile\Desktop\Learn\C#\GenericApp\GenericApp\obj\Debug\net8.0\refint\GenericApp.dll
+C:\Users\MondliKhanyile\Desktop\Learn\C#\GenericApp\GenericApp\obj\Debug\net8.0\GenericApp.pdb
+C:\Users\MondliKhanyile\Desktop\Learn\C#\GenericApp\GenericApp\obj\Debug\net8.0\GenericApp.genruntimeconfig.cache
+C:\Users\MondliKhanyile\Desktop\Learn\C#\GenericApp\GenericApp\obj\Debug\net8.0\ref\GenericApp.dll

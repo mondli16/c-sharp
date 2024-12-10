@@ -1,0 +1,14 @@
+C:\Users\MondliKhanyile\Desktop\Learn\C#\GenericTypeApp\GenericTypeApp\bin\Debug\net8.0\GenericTypeApp.exe
+C:\Users\MondliKhanyile\Desktop\Learn\C#\GenericTypeApp\GenericTypeApp\bin\Debug\net8.0\GenericTypeApp.deps.json
+C:\Users\MondliKhanyile\Desktop\Learn\C#\GenericTypeApp\GenericTypeApp\bin\Debug\net8.0\GenericTypeApp.runtimeconfig.json
+C:\Users\MondliKhanyile\Desktop\Learn\C#\GenericTypeApp\GenericTypeApp\bin\Debug\net8.0\GenericTypeApp.dll
+C:\Users\MondliKhanyile\Desktop\Learn\C#\GenericTypeApp\GenericTypeApp\bin\Debug\net8.0\GenericTypeApp.pdb
+C:\Users\MondliKhanyile\Desktop\Learn\C#\GenericTypeApp\GenericTypeApp\obj\Debug\net8.0\GenericTypeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MondliKhanyile\Desktop\Learn\C#\GenericTypeApp\GenericTypeApp\obj\Debug\net8.0\GenericTypeApp.AssemblyInfoInputs.cache
+C:\Users\MondliKhanyile\Desktop\Learn\C#\GenericTypeApp\GenericTypeApp\obj\Debug\net8.0\GenericTypeApp.AssemblyInfo.cs
+C:\Users\MondliKhanyile\Desktop\Learn\C#\GenericTypeApp\GenericTypeApp\obj\Debug\net8.0\GenericTypeApp.csproj.CoreCompileInputs.cache
+C:\Users\MondliKhanyile\Desktop\Learn\C#\GenericTypeApp\GenericTypeApp\obj\Debug\net8.0\GenericTypeApp.dll
+C:\Users\MondliKhanyile\Desktop\Learn\C#\GenericTypeApp\GenericTypeApp\obj\Debug\net8.0\refint\GenericTypeApp.dll
+C:\Users\MondliKhanyile\Desktop\Learn\C#\GenericTypeApp\GenericTypeApp\obj\Debug\net8.0\GenericTypeApp.pdb
+C:\Users\MondliKhanyile\Desktop\Learn\C#\GenericTypeApp\GenericTypeApp\obj\Debug\net8.0\GenericTypeApp.genruntimeconfig.cache
+C:\Users\MondliKhanyile\Desktop\Learn\C#\GenericTypeApp\GenericTypeApp\obj\Debug\net8.0\ref\GenericTypeApp.dll
