@@ -1,0 +1,15 @@
+C:\Users\MondliKhanyile\Desktop\Learn\C#\WPF ZooManager\WPF ZooManager\bin\Debug\WPF ZooManager.exe.config
+C:\Users\MondliKhanyile\Desktop\Learn\C#\WPF ZooManager\WPF ZooManager\bin\Debug\WPF ZooManager.exe
+C:\Users\MondliKhanyile\Desktop\Learn\C#\WPF ZooManager\WPF ZooManager\bin\Debug\WPF ZooManager.pdb
+C:\Users\MondliKhanyile\Desktop\Learn\C#\WPF ZooManager\WPF ZooManager\obj\Debug\WPF ZooManager.csproj.AssemblyReference.cache
+C:\Users\MondliKhanyile\Desktop\Learn\C#\WPF ZooManager\WPF ZooManager\obj\Debug\MainWindow.g.cs
+C:\Users\MondliKhanyile\Desktop\Learn\C#\WPF ZooManager\WPF ZooManager\obj\Debug\App.g.cs
+C:\Users\MondliKhanyile\Desktop\Learn\C#\WPF ZooManager\WPF ZooManager\obj\Debug\WPF ZooManager_MarkupCompile.cache
+C:\Users\MondliKhanyile\Desktop\Learn\C#\WPF ZooManager\WPF ZooManager\obj\Debug\WPF ZooManager_MarkupCompile.lref
+C:\Users\MondliKhanyile\Desktop\Learn\C#\WPF ZooManager\WPF ZooManager\obj\Debug\MainWindow.baml
+C:\Users\MondliKhanyile\Desktop\Learn\C#\WPF ZooManager\WPF ZooManager\obj\Debug\WPF ZooManager.g.resources
+C:\Users\MondliKhanyile\Desktop\Learn\C#\WPF ZooManager\WPF ZooManager\obj\Debug\WPF_ZooManager.Properties.Resources.resources
+C:\Users\MondliKhanyile\Desktop\Learn\C#\WPF ZooManager\WPF ZooManager\obj\Debug\WPF ZooManager.csproj.GenerateResource.cache
+C:\Users\MondliKhanyile\Desktop\Learn\C#\WPF ZooManager\WPF ZooManager\obj\Debug\WPF ZooManager.csproj.CoreCompileInputs.cache
+C:\Users\MondliKhanyile\Desktop\Learn\C#\WPF ZooManager\WPF ZooManager\obj\Debug\WPF ZooManager.exe
+C:\Users\MondliKhanyile\Desktop\Learn\C#\WPF ZooManager\WPF ZooManager\obj\Debug\WPF ZooManager.pdb
