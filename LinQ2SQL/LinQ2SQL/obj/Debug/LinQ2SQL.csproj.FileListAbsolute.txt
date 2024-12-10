@@ -1,0 +1,15 @@
+C:\Users\MondliKhanyile\Desktop\Learn\C#\LinQ2SQL\LinQ2SQL\bin\Debug\LinQ2SQL.exe.config
+C:\Users\MondliKhanyile\Desktop\Learn\C#\LinQ2SQL\LinQ2SQL\bin\Debug\LinQ2SQL.exe
+C:\Users\MondliKhanyile\Desktop\Learn\C#\LinQ2SQL\LinQ2SQL\bin\Debug\LinQ2SQL.pdb
+C:\Users\MondliKhanyile\Desktop\Learn\C#\LinQ2SQL\LinQ2SQL\obj\Debug\LinQ2SQL.csproj.AssemblyReference.cache
+C:\Users\MondliKhanyile\Desktop\Learn\C#\LinQ2SQL\LinQ2SQL\obj\Debug\MainWindow.g.cs
+C:\Users\MondliKhanyile\Desktop\Learn\C#\LinQ2SQL\LinQ2SQL\obj\Debug\App.g.cs
+C:\Users\MondliKhanyile\Desktop\Learn\C#\LinQ2SQL\LinQ2SQL\obj\Debug\LinQ2SQL_MarkupCompile.cache
+C:\Users\MondliKhanyile\Desktop\Learn\C#\LinQ2SQL\LinQ2SQL\obj\Debug\LinQ2SQL_MarkupCompile.lref
+C:\Users\MondliKhanyile\Desktop\Learn\C#\LinQ2SQL\LinQ2SQL\obj\Debug\MainWindow.baml
+C:\Users\MondliKhanyile\Desktop\Learn\C#\LinQ2SQL\LinQ2SQL\obj\Debug\LinQ2SQL.g.resources
+C:\Users\MondliKhanyile\Desktop\Learn\C#\LinQ2SQL\LinQ2SQL\obj\Debug\LinQ2SQL.Properties.Resources.resources
+C:\Users\MondliKhanyile\Desktop\Learn\C#\LinQ2SQL\LinQ2SQL\obj\Debug\LinQ2SQL.csproj.GenerateResource.cache
+C:\Users\MondliKhanyile\Desktop\Learn\C#\LinQ2SQL\LinQ2SQL\obj\Debug\LinQ2SQL.csproj.CoreCompileInputs.cache
+C:\Users\MondliKhanyile\Desktop\Learn\C#\LinQ2SQL\LinQ2SQL\obj\Debug\LinQ2SQL.exe
+C:\Users\MondliKhanyile\Desktop\Learn\C#\LinQ2SQL\LinQ2SQL\obj\Debug\LinQ2SQL.pdb

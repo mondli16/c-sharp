@@ -1,0 +1,14 @@
+C:\Users\MondliKhanyile\Desktop\Learn\C#\LINQToObjectsAndQueryOperators\LINQToObjectsAndQueryOperators\obj\Debug\net8.0\LINQToObjectsAndQueryOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MondliKhanyile\Desktop\Learn\C#\LINQToObjectsAndQueryOperators\LINQToObjectsAndQueryOperators\obj\Debug\net8.0\LINQToObjectsAndQueryOperators.AssemblyInfoInputs.cache
+C:\Users\MondliKhanyile\Desktop\Learn\C#\LINQToObjectsAndQueryOperators\LINQToObjectsAndQueryOperators\obj\Debug\net8.0\LINQToObjectsAndQueryOperators.AssemblyInfo.cs
+C:\Users\MondliKhanyile\Desktop\Learn\C#\LINQToObjectsAndQueryOperators\LINQToObjectsAndQueryOperators\obj\Debug\net8.0\LINQToObjectsAndQueryOperators.csproj.CoreCompileInputs.cache
+C:\Users\MondliKhanyile\Desktop\Learn\C#\LINQToObjectsAndQueryOperators\LINQToObjectsAndQueryOperators\bin\Debug\net8.0\LINQToObjectsAndQueryOperators.exe
+C:\Users\MondliKhanyile\Desktop\Learn\C#\LINQToObjectsAndQueryOperators\LINQToObjectsAndQueryOperators\bin\Debug\net8.0\LINQToObjectsAndQueryOperators.deps.json
+C:\Users\MondliKhanyile\Desktop\Learn\C#\LINQToObjectsAndQueryOperators\LINQToObjectsAndQueryOperators\bin\Debug\net8.0\LINQToObjectsAndQueryOperators.runtimeconfig.json
+C:\Users\MondliKhanyile\Desktop\Learn\C#\LINQToObjectsAndQueryOperators\LINQToObjectsAndQueryOperators\bin\Debug\net8.0\LINQToObjectsAndQueryOperators.dll
+C:\Users\MondliKhanyile\Desktop\Learn\C#\LINQToObjectsAndQueryOperators\LINQToObjectsAndQueryOperators\bin\Debug\net8.0\LINQToObjectsAndQueryOperators.pdb
+C:\Users\MondliKhanyile\Desktop\Learn\C#\LINQToObjectsAndQueryOperators\LINQToObjectsAndQueryOperators\obj\Debug\net8.0\LINQToObjectsAndQueryOperators.dll
+C:\Users\MondliKhanyile\Desktop\Learn\C#\LINQToObjectsAndQueryOperators\LINQToObjectsAndQueryOperators\obj\Debug\net8.0\refint\LINQToObjectsAndQueryOperators.dll
+C:\Users\MondliKhanyile\Desktop\Learn\C#\LINQToObjectsAndQueryOperators\LINQToObjectsAndQueryOperators\obj\Debug\net8.0\LINQToObjectsAndQueryOperators.pdb
+C:\Users\MondliKhanyile\Desktop\Learn\C#\LINQToObjectsAndQueryOperators\LINQToObjectsAndQueryOperators\obj\Debug\net8.0\LINQToObjectsAndQueryOperators.genruntimeconfig.cache
+C:\Users\MondliKhanyile\Desktop\Learn\C#\LINQToObjectsAndQueryOperators\LINQToObjectsAndQueryOperators\obj\Debug\net8.0\ref\LINQToObjectsAndQueryOperators.dll

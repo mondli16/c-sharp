@@ -1,0 +1,17 @@
+C:\Users\MondliKhanyile\Desktop\Learn\C#\JSONDEMO\JSONDEMO\bin\Debug\net8.0\JSONDEMO.exe
+C:\Users\MondliKhanyile\Desktop\Learn\C#\JSONDEMO\JSONDEMO\bin\Debug\net8.0\JSONDEMO.deps.json
+C:\Users\MondliKhanyile\Desktop\Learn\C#\JSONDEMO\JSONDEMO\bin\Debug\net8.0\JSONDEMO.runtimeconfig.json
+C:\Users\MondliKhanyile\Desktop\Learn\C#\JSONDEMO\JSONDEMO\bin\Debug\net8.0\JSONDEMO.dll
+C:\Users\MondliKhanyile\Desktop\Learn\C#\JSONDEMO\JSONDEMO\bin\Debug\net8.0\JSONDEMO.pdb
+C:\Users\MondliKhanyile\Desktop\Learn\C#\JSONDEMO\JSONDEMO\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\MondliKhanyile\Desktop\Learn\C#\JSONDEMO\JSONDEMO\obj\Debug\net8.0\JSONDEMO.csproj.AssemblyReference.cache
+C:\Users\MondliKhanyile\Desktop\Learn\C#\JSONDEMO\JSONDEMO\obj\Debug\net8.0\JSONDEMO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MondliKhanyile\Desktop\Learn\C#\JSONDEMO\JSONDEMO\obj\Debug\net8.0\JSONDEMO.AssemblyInfoInputs.cache
+C:\Users\MondliKhanyile\Desktop\Learn\C#\JSONDEMO\JSONDEMO\obj\Debug\net8.0\JSONDEMO.AssemblyInfo.cs
+C:\Users\MondliKhanyile\Desktop\Learn\C#\JSONDEMO\JSONDEMO\obj\Debug\net8.0\JSONDEMO.csproj.CoreCompileInputs.cache
+C:\Users\MondliKhanyile\Desktop\Learn\C#\JSONDEMO\JSONDEMO\obj\Debug\net8.0\JSONDEMO.csproj.Up2Date
+C:\Users\MondliKhanyile\Desktop\Learn\C#\JSONDEMO\JSONDEMO\obj\Debug\net8.0\JSONDEMO.dll
+C:\Users\MondliKhanyile\Desktop\Learn\C#\JSONDEMO\JSONDEMO\obj\Debug\net8.0\refint\JSONDEMO.dll
+C:\Users\MondliKhanyile\Desktop\Learn\C#\JSONDEMO\JSONDEMO\obj\Debug\net8.0\JSONDEMO.pdb
+C:\Users\MondliKhanyile\Desktop\Learn\C#\JSONDEMO\JSONDEMO\obj\Debug\net8.0\JSONDEMO.genruntimeconfig.cache
+C:\Users\MondliKhanyile\Desktop\Learn\C#\JSONDEMO\JSONDEMO\obj\Debug\net8.0\ref\JSONDEMO.dll
