@@ -1,0 +1,14 @@
+C:\Users\MondliKhanyile\Desktop\Learn\C#\MultipleInterphases\MultipleInterphases\bin\Debug\net8.0\MultipleInterphases.exe
+C:\Users\MondliKhanyile\Desktop\Learn\C#\MultipleInterphases\MultipleInterphases\bin\Debug\net8.0\MultipleInterphases.deps.json
+C:\Users\MondliKhanyile\Desktop\Learn\C#\MultipleInterphases\MultipleInterphases\bin\Debug\net8.0\MultipleInterphases.runtimeconfig.json
+C:\Users\MondliKhanyile\Desktop\Learn\C#\MultipleInterphases\MultipleInterphases\bin\Debug\net8.0\MultipleInterphases.dll
+C:\Users\MondliKhanyile\Desktop\Learn\C#\MultipleInterphases\MultipleInterphases\bin\Debug\net8.0\MultipleInterphases.pdb
+C:\Users\MondliKhanyile\Desktop\Learn\C#\MultipleInterphases\MultipleInterphases\obj\Debug\net8.0\MultipleInterphases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MondliKhanyile\Desktop\Learn\C#\MultipleInterphases\MultipleInterphases\obj\Debug\net8.0\MultipleInterphases.AssemblyInfoInputs.cache
+C:\Users\MondliKhanyile\Desktop\Learn\C#\MultipleInterphases\MultipleInterphases\obj\Debug\net8.0\MultipleInterphases.AssemblyInfo.cs
+C:\Users\MondliKhanyile\Desktop\Learn\C#\MultipleInterphases\MultipleInterphases\obj\Debug\net8.0\MultipleInterphases.csproj.CoreCompileInputs.cache
+C:\Users\MondliKhanyile\Desktop\Learn\C#\MultipleInterphases\MultipleInterphases\obj\Debug\net8.0\MultipleInterphases.dll
+C:\Users\MondliKhanyile\Desktop\Learn\C#\MultipleInterphases\MultipleInterphases\obj\Debug\net8.0\refint\MultipleInterphases.dll
+C:\Users\MondliKhanyile\Desktop\Learn\C#\MultipleInterphases\MultipleInterphases\obj\Debug\net8.0\MultipleInterphases.pdb
+C:\Users\MondliKhanyile\Desktop\Learn\C#\MultipleInterphases\MultipleInterphases\obj\Debug\net8.0\MultipleInterphases.genruntimeconfig.cache
+C:\Users\MondliKhanyile\Desktop\Learn\C#\MultipleInterphases\MultipleInterphases\obj\Debug\net8.0\ref\MultipleInterphases.dll
