@@ -1,0 +1,14 @@
+C:\Users\MondliKhanyile\Desktop\Learn\C#\threadsApp\threadsApp\bin\Debug\net8.0\threadsApp.exe
+C:\Users\MondliKhanyile\Desktop\Learn\C#\threadsApp\threadsApp\bin\Debug\net8.0\threadsApp.deps.json
+C:\Users\MondliKhanyile\Desktop\Learn\C#\threadsApp\threadsApp\bin\Debug\net8.0\threadsApp.runtimeconfig.json
+C:\Users\MondliKhanyile\Desktop\Learn\C#\threadsApp\threadsApp\bin\Debug\net8.0\threadsApp.dll
+C:\Users\MondliKhanyile\Desktop\Learn\C#\threadsApp\threadsApp\bin\Debug\net8.0\threadsApp.pdb
+C:\Users\MondliKhanyile\Desktop\Learn\C#\threadsApp\threadsApp\obj\Debug\net8.0\threadsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MondliKhanyile\Desktop\Learn\C#\threadsApp\threadsApp\obj\Debug\net8.0\threadsApp.AssemblyInfoInputs.cache
+C:\Users\MondliKhanyile\Desktop\Learn\C#\threadsApp\threadsApp\obj\Debug\net8.0\threadsApp.AssemblyInfo.cs
+C:\Users\MondliKhanyile\Desktop\Learn\C#\threadsApp\threadsApp\obj\Debug\net8.0\threadsApp.csproj.CoreCompileInputs.cache
+C:\Users\MondliKhanyile\Desktop\Learn\C#\threadsApp\threadsApp\obj\Debug\net8.0\threadsApp.dll
+C:\Users\MondliKhanyile\Desktop\Learn\C#\threadsApp\threadsApp\obj\Debug\net8.0\refint\threadsApp.dll
+C:\Users\MondliKhanyile\Desktop\Learn\C#\threadsApp\threadsApp\obj\Debug\net8.0\threadsApp.pdb
+C:\Users\MondliKhanyile\Desktop\Learn\C#\threadsApp\threadsApp\obj\Debug\net8.0\threadsApp.genruntimeconfig.cache
+C:\Users\MondliKhanyile\Desktop\Learn\C#\threadsApp\threadsApp\obj\Debug\net8.0\ref\threadsApp.dll

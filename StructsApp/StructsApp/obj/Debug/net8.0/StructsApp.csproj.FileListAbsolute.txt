@@ -1,0 +1,14 @@
+C:\Users\MondliKhanyile\Desktop\Learn\C#\StructsApp\StructsApp\bin\Debug\net8.0\StructsApp.exe
+C:\Users\MondliKhanyile\Desktop\Learn\C#\StructsApp\StructsApp\bin\Debug\net8.0\StructsApp.deps.json
+C:\Users\MondliKhanyile\Desktop\Learn\C#\StructsApp\StructsApp\bin\Debug\net8.0\StructsApp.runtimeconfig.json
+C:\Users\MondliKhanyile\Desktop\Learn\C#\StructsApp\StructsApp\bin\Debug\net8.0\StructsApp.dll
+C:\Users\MondliKhanyile\Desktop\Learn\C#\StructsApp\StructsApp\bin\Debug\net8.0\StructsApp.pdb
+C:\Users\MondliKhanyile\Desktop\Learn\C#\StructsApp\StructsApp\obj\Debug\net8.0\StructsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MondliKhanyile\Desktop\Learn\C#\StructsApp\StructsApp\obj\Debug\net8.0\StructsApp.AssemblyInfoInputs.cache
+C:\Users\MondliKhanyile\Desktop\Learn\C#\StructsApp\StructsApp\obj\Debug\net8.0\StructsApp.AssemblyInfo.cs
+C:\Users\MondliKhanyile\Desktop\Learn\C#\StructsApp\StructsApp\obj\Debug\net8.0\StructsApp.csproj.CoreCompileInputs.cache
+C:\Users\MondliKhanyile\Desktop\Learn\C#\StructsApp\StructsApp\obj\Debug\net8.0\StructsApp.dll
+C:\Users\MondliKhanyile\Desktop\Learn\C#\StructsApp\StructsApp\obj\Debug\net8.0\refint\StructsApp.dll
+C:\Users\MondliKhanyile\Desktop\Learn\C#\StructsApp\StructsApp\obj\Debug\net8.0\StructsApp.pdb
+C:\Users\MondliKhanyile\Desktop\Learn\C#\StructsApp\StructsApp\obj\Debug\net8.0\StructsApp.genruntimeconfig.cache
+C:\Users\MondliKhanyile\Desktop\Learn\C#\StructsApp\StructsApp\obj\Debug\net8.0\ref\StructsApp.dll
