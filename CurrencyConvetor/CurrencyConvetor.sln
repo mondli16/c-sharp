@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurrencyConvetor", "CurrencyConvetor\CurrencyConvetor.csproj", "{619A499A-2907-447B-AE02-61AC71095DEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{619A499A-2907-447B-AE02-61AC71095DEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{619A499A-2907-447B-AE02-61AC71095DEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{619A499A-2907-447B-AE02-61AC71095DEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{619A499A-2907-447B-AE02-61AC71095DEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2D72A28-0D17-4994-AF65-3BB8EC06E102}
+	EndGlobalSection
+EndGlobal
