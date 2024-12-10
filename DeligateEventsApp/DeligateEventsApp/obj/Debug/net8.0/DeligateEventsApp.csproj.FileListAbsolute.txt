@@ -1,0 +1,14 @@
+C:\Users\MondliKhanyile\Desktop\Learn\C#\DeligateEventsApp\DeligateEventsApp\bin\Debug\net8.0\DeligateEventsApp.exe
+C:\Users\MondliKhanyile\Desktop\Learn\C#\DeligateEventsApp\DeligateEventsApp\bin\Debug\net8.0\DeligateEventsApp.deps.json
+C:\Users\MondliKhanyile\Desktop\Learn\C#\DeligateEventsApp\DeligateEventsApp\bin\Debug\net8.0\DeligateEventsApp.runtimeconfig.json
+C:\Users\MondliKhanyile\Desktop\Learn\C#\DeligateEventsApp\DeligateEventsApp\bin\Debug\net8.0\DeligateEventsApp.dll
+C:\Users\MondliKhanyile\Desktop\Learn\C#\DeligateEventsApp\DeligateEventsApp\bin\Debug\net8.0\DeligateEventsApp.pdb
+C:\Users\MondliKhanyile\Desktop\Learn\C#\DeligateEventsApp\DeligateEventsApp\obj\Debug\net8.0\DeligateEventsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MondliKhanyile\Desktop\Learn\C#\DeligateEventsApp\DeligateEventsApp\obj\Debug\net8.0\DeligateEventsApp.AssemblyInfoInputs.cache
+C:\Users\MondliKhanyile\Desktop\Learn\C#\DeligateEventsApp\DeligateEventsApp\obj\Debug\net8.0\DeligateEventsApp.AssemblyInfo.cs
+C:\Users\MondliKhanyile\Desktop\Learn\C#\DeligateEventsApp\DeligateEventsApp\obj\Debug\net8.0\DeligateEventsApp.csproj.CoreCompileInputs.cache
+C:\Users\MondliKhanyile\Desktop\Learn\C#\DeligateEventsApp\DeligateEventsApp\obj\Debug\net8.0\DeligateEventsApp.dll
+C:\Users\MondliKhanyile\Desktop\Learn\C#\DeligateEventsApp\DeligateEventsApp\obj\Debug\net8.0\refint\DeligateEventsApp.dll
+C:\Users\MondliKhanyile\Desktop\Learn\C#\DeligateEventsApp\DeligateEventsApp\obj\Debug\net8.0\DeligateEventsApp.pdb
+C:\Users\MondliKhanyile\Desktop\Learn\C#\DeligateEventsApp\DeligateEventsApp\obj\Debug\net8.0\DeligateEventsApp.genruntimeconfig.cache
+C:\Users\MondliKhanyile\Desktop\Learn\C#\DeligateEventsApp\DeligateEventsApp\obj\Debug\net8.0\ref\DeligateEventsApp.dll
