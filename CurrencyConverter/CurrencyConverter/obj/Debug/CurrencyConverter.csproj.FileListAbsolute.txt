@@ -1,0 +1,5 @@
+C:\Users\MondliKhanyile\Desktop\Learn\C#\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.AssemblyReference.cache
+C:\Users\MondliKhanyile\Desktop\Learn\C#\CurrencyConverter\CurrencyConverter\obj\Debug\MainWindow.g.cs
+C:\Users\MondliKhanyile\Desktop\Learn\C#\CurrencyConverter\CurrencyConverter\obj\Debug\App.g.cs
+C:\Users\MondliKhanyile\Desktop\Learn\C#\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter_MarkupCompile.cache
+C:\Users\MondliKhanyile\Desktop\Learn\C#\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter_MarkupCompile.lref
