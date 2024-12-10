@@ -1,0 +1,14 @@
+C:\Users\MondliKhanyile\Desktop\Learn\C#\WeatherStationsSimulator\WeatherStationsSimulator\bin\Debug\net8.0\WeatherStationsSimulator.exe
+C:\Users\MondliKhanyile\Desktop\Learn\C#\WeatherStationsSimulator\WeatherStationsSimulator\bin\Debug\net8.0\WeatherStationsSimulator.deps.json
+C:\Users\MondliKhanyile\Desktop\Learn\C#\WeatherStationsSimulator\WeatherStationsSimulator\bin\Debug\net8.0\WeatherStationsSimulator.runtimeconfig.json
+C:\Users\MondliKhanyile\Desktop\Learn\C#\WeatherStationsSimulator\WeatherStationsSimulator\bin\Debug\net8.0\WeatherStationsSimulator.dll
+C:\Users\MondliKhanyile\Desktop\Learn\C#\WeatherStationsSimulator\WeatherStationsSimulator\bin\Debug\net8.0\WeatherStationsSimulator.pdb
+C:\Users\MondliKhanyile\Desktop\Learn\C#\WeatherStationsSimulator\WeatherStationsSimulator\obj\Debug\net8.0\WeatherStationsSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MondliKhanyile\Desktop\Learn\C#\WeatherStationsSimulator\WeatherStationsSimulator\obj\Debug\net8.0\WeatherStationsSimulator.AssemblyInfoInputs.cache
+C:\Users\MondliKhanyile\Desktop\Learn\C#\WeatherStationsSimulator\WeatherStationsSimulator\obj\Debug\net8.0\WeatherStationsSimulator.AssemblyInfo.cs
+C:\Users\MondliKhanyile\Desktop\Learn\C#\WeatherStationsSimulator\WeatherStationsSimulator\obj\Debug\net8.0\WeatherStationsSimulator.csproj.CoreCompileInputs.cache
+C:\Users\MondliKhanyile\Desktop\Learn\C#\WeatherStationsSimulator\WeatherStationsSimulator\obj\Debug\net8.0\WeatherStationsSimulator.dll
+C:\Users\MondliKhanyile\Desktop\Learn\C#\WeatherStationsSimulator\WeatherStationsSimulator\obj\Debug\net8.0\refint\WeatherStationsSimulator.dll
+C:\Users\MondliKhanyile\Desktop\Learn\C#\WeatherStationsSimulator\WeatherStationsSimulator\obj\Debug\net8.0\WeatherStationsSimulator.pdb
+C:\Users\MondliKhanyile\Desktop\Learn\C#\WeatherStationsSimulator\WeatherStationsSimulator\obj\Debug\net8.0\WeatherStationsSimulator.genruntimeconfig.cache
+C:\Users\MondliKhanyile\Desktop\Learn\C#\WeatherStationsSimulator\WeatherStationsSimulator\obj\Debug\net8.0\ref\WeatherStationsSimulator.dll
